@@ -1,0 +1,11 @@
+/*h1 {
+    color: #6594e0;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+  /*}*/
+
+h1 { font-size: 1.3em }
+h2 { font-size: 1.2em }
+h3 { font-size: 1.125em }
+h4 { font-size: 1em }
+h5 { font-size: 0.75em }
+h6 { font-size: 0.625em }
