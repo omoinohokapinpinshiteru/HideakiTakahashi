@@ -29,7 +29,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 html_static_path = ['_static']
 
-html_logo = "./_static/logo.png"
+html_logo = "./_static/logo2.jpeg"
 
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
